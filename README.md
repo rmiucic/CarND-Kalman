@@ -1,2 +1,2 @@
 # CarND-Kalman
-**One Dimensional Kalman Filter.ipynb** is the simple 1D Kalman filter
+**One Dimensional Kalman Filter.ipynb** is a simple 1D Kalman filter
